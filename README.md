@@ -1,5 +1,6 @@
 # kaggle
 kaggle notbooks
+
 I want to write a few words about the goals and objectives of this notebook..¶
 of Course, the main goal is to achieve the maximum result in this competition, but not only.. I started my DS / ML career not so long ago and a lot of questions arise in the course of my work. In this notebook, I will try to give answers to the questions of beginners that I think they can ask, or that I myself would have asked at the very beginning.. So.. the result of this work will be submission. but let's understand in order what is needed for this I would conditionally split the whole process into 6 parts:
 
